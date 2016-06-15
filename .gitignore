@@ -37,4 +37,7 @@ jspm_packages
 .node_repl_history
 
 build
+<<<<<<< HEAD
 public/build
+=======
+>>>>>>> 4b05637c165900b7cdfb78df8afefcb76a363a22
